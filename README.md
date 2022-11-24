@@ -1,1 +1,7 @@
-# extension-template
+# Extension Name
+
+Brief description goes here
+
+# Images
+
+# Credit
