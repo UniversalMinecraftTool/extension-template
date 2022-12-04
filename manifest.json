@@ -1,7 +1,7 @@
 {
   "link" : "",
   "name" : "ExtensionName",
-  "version" : 1,
+  "version" : "1.0.0",
   "author" : "",
   "description" : "",
   "editions" : ["JAVA", "BEDROCK", "CONSOLE"],
